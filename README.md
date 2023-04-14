@@ -13,7 +13,6 @@ You can download, build, and run the programs with the following commands:
 	$ $GOPATH/bin/helloworld                # run
 	Hello, 世界
 
-# add test word
 Many of the programs contain comments of the form `//!+` and `//!-`.
 These comments bracket the parts of the programs that are excerpted in the
 book; you can safely ignore them.  In a few cases, programs
